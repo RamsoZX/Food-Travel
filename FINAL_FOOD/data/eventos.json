@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1000,
+        "nombre": "La feria del poroto pallar",
+        "ingrediente": "Poroto pallar",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1000,
+        "hora_inicio": "2023-08-26T18:00:00",
+        "hora_fin": "2023-08-26T21:00:00",
+        "descripcion": "Un festin de sabores y tradiciones que celebra la esencia culinaria, donde los aromas y colores de esta leguminosa se entrelazan en un evento imperdible para los amantes de la gastronomia.",
+        "imagen": ""
+    },
+    {
+        "id": 1004,
+        "nombre": "Comida vallista",
+        "ingrediente": "Cabrito y especias vallistas",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1001,
+        "hora_inicio": "2023-08-26T18:00:00",
+        "hora_fin": "2023-08-26T21:00:00",
+        "descripcion": "Una experiencia culinaria inigualable te espera. Sumergete en la tradicion y el sabor en el reconocido comedor 'El Bistro de Cachi', donde los aromas del cabrito asado se fusionan con la autentica cocina vallista.",
+        "imagen": ""
+    },
+    {
+        "id": 1001,
+        "nombre": "El festivino del cabrito",
+        "ingrediente": "Vino y cabrito",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1002,
+        "hora_inicio": "2023-08-26T18:00:00",
+        "hora_fin": "2023-08-26T21:00:00",
+        "descripcion": "Preparate para una celebracion culinaria unica en su tipo: 'El Festivino del Cabrito'. En el iconico comedor 'El Zapallo', el asado de cabrito se une en perfecta armonia con los exquisitos vinos del Valle Calchaqui.",
+        "imagen": ""
+    },
+    {
+        "id": 1002,
+        "nombre": "El emporio de las pizzas",
+        "ingrediente": "Pizzas, enbutidos, verduras de la zona",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1003,
+        "hora_inicio": "2023-08-26T18:00:00",
+        "hora_fin": "2023-08-26T21:00:00",
+        "descripcion": "Ven y saborea la deliciosa experiencia que ofrece 'El Emporio de las Pizzas' en el acogedor Ashpamanta Restaurant. Este evento te invita a explorar un mundo de sabores con una amplia gama de exquisitas pizzas y a maridarlas con cervezas artesanales seleccionadas.",
+        "imagen": ""
+    },
+    {
+        "id": 1003,
+        "nombre": "Vino: por tu culpa soy borracho",
+        "ingrediente": "vinos, embutidos de la zona",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1004,
+        "hora_inicio": "2023-08-08T18:00:00",
+        "hora_fin": "2023-08-08T21:00:00",
+        "descripcion": "Dejate seducir por una seleccion excepcional de vinos mientras acompanias cada sorbo con embutidos de la region, elaborados con esmero a partir de los sabores autenticos de los animales de la puna",
+        "imagen": ""
+    },
+    {
+        "id": 1005,
+        "nombre": "El Cordero a la cancana",
+        "ingrediente": "cordero, especias vallistas",
+        "tipo": "Gastronomico",
+        "id_ubicacion": 1005,
+        "hora_inicio": "2023-07-26T23:00:00",
+        "hora_fin": "2023-07-27T01:00:00",
+        "descripcion": "Adentrate en una experiencia unica en 'El Cordero a la Cancana'. En el acogedor quincho, la tradicion y el sabor se fusionan en un festin donde el protagonista es el cordero a la cancana, cocinado con maestria para resaltar su jugosidad y sabor inigualable.",
+        "imagen": ""
+    }
+]

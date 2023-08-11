@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1000,
+        "id_evento": 1005,
+        "id_usuario": 1000,
+        "comentario": "Exquisita sorpresa en cada plato, una visita obligada.",
+        "calificacion": 5,
+        "animo": "Positivo"
+    },
+    {
+        "id": 1001,
+        "id_evento": 1003,
+        "id_usuario": 1001,
+        "comentario": "Un paraíso gastronómico con sabores que te abrazan.",
+        "calificacion": 4,
+        "animo": "Positivo"
+    },
+    {
+        "id": 1002,
+        "id_evento": 1005,
+        "id_usuario": 1001,
+        "comentario": "El lugar perfecto para satisfacer todos tus antojos culinarios.",
+        "calificacion": 3,
+        "animo": "Positivo"
+    },
+    {
+        "id": 1003,
+        "id_evento": 1003,
+        "id_usuario": 1002,
+        "comentario": "Cada bocado era un deleite, sin duda regresaré.",
+        "calificacion": 4,
+        "animo": "Positivo"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1000,
+        "nombre_usuario": "DamianBauer",
+        "historial_eventos": [
+            1005
+        ]
+    },
+    {
+        "id": 1001,
+        "nombre_usuario": "NelsonSulca",
+        "historial_eventos": [
+            1003,
+            1005
+        ]
+    },
+    {
+        "id": 1002,
+        "nombre_usuario": "OmarVillagran",
+        "historial_eventos": [
+            1003
+        ]
+    }
+]

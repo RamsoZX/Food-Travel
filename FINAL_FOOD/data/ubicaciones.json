@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1000,
+        "nombre": "Viracocha Restaurant",
+        "direccion": "Federico Suarez y Ruta Nacional 40",
+        "coordenadas": "-25.119689, -66.160791"
+    },
+    {
+        "id": 1001,
+        "nombre": "Comedor El Bistro de Cachi",
+        "direccion": "Federico Suarez y Pasaje Borja",
+        "coordenadas": "-25.120072, -66.161231"
+    },
+    {
+        "id": 1002,
+        "nombre": "Comedor El Zapallo",
+        "direccion": "Av. Martin Miguel de Güemes S/N",
+        "coordenadas": "-25.121156, -66.163151"
+    },
+    {
+        "id": 1003,
+        "nombre": "Ashpamanta Restaurant",
+        "direccion": "Federico Suarez S/N",
+        "coordenadas": "-25.119156, -66.160576"
+    },
+    {
+        "id": 1004,
+        "nombre": "Hosteria Automovil Club Argentino Cachi",
+        "direccion": "Av. Automovil Club Argentino S/N",
+        "coordenadas": "-25.123016, -66.165663"
+    },
+    {
+        "id": 1005,
+        "nombre": "Comedor El Quincho",
+        "direccion": "Aranda y Ruta Nacional 40",
+        "coordenadas": "-25.120082, -66.160226"
+    }
+]
